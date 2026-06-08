@@ -2,3 +2,6 @@ telethon
 aiohttp
 aiofiles
 requests
+cryptg
+python-socks
+pytz
